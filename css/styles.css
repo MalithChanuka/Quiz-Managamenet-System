@@ -1,0 +1,17 @@
+.btn-primary {
+   display: flex;
+    margin: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    background: #48D1CC;
+    color:cri#48D1CC;
+    text-transform: capitalize;
+    font-size: 15px;
+    cursor: pointer;
+ }
+ 
+ .btn-primary:hover{
+    color: #fff;
+    background: #48D1CC;
+    color:#48D1CC;
+ }

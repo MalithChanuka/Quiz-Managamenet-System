@@ -1,0 +1,22 @@
+    
+
+   student_online_quiz_system using php and mysql
+------------------------------------------------------------
+
+this application developed by using html,php,css,bootstrap & mysql technologeis.
+
+
+main objectives of this system,
+
+		-teachers can add new exam & delete,update search data of added exams,questions
+
+		-monitor student exam completions and results
+
+		-students can attend exams in given time slots and view their results
+
+installation steps-
+-------------------
+
+* first extract the downloaded file and open the php files in your code editor(VS code)
+
+* next import the database file into your Xampp server(Wampp/SQL workbench)
